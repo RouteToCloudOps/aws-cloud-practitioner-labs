@@ -3,7 +3,7 @@
 
 ## Current Status (Dec 2025)
 - Full-time studying Stéphane Maarek’s **Ultimate AWS Certified Cloud Practitioner** course on Udemy
-- Expected certification: **December 2025**
+- Expected certification: **January 2026**
 - Target roles: Remote Junior Cloud Operations / Cloud Support Associate
 
 ## Labs & Projects (updated weekly)
